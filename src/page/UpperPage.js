@@ -42,7 +42,7 @@ function UpperPage() {
       };
       
       fetchData();
-    }, []);
+    }, [url]);
   
     
     return (
